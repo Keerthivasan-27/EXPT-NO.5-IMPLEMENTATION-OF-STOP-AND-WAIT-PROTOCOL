@@ -1,3 +1,4 @@
+# date: 09/05/2026
 # EX.NO: 5 IMPLEMENTATION OF STOP AND WAIT PROTOCOL
 
 # AIM
@@ -72,6 +73,7 @@ $ns run
 
 
 
+<img width="1599" height="1003" alt="WhatsApp Image 2026-06-04 at 19 27 00" src="https://github.com/user-attachments/assets/b687a636-0b11-4c62-9eb4-5d9fa71b9488" />
 
 
 
